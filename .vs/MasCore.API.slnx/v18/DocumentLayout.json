@@ -1,0 +1,635 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\save\\fullstack project\\MasCore.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\implementations\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\implementations\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\project\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\project\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\project\\updateprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\project\\updateprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\project\\createprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\project\\createprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\task\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\task\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\task\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\task\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\task\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\task\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\models\\enums\\projecttaskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\models\\enums\\projecttaskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\models\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\models\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\.gitignore",
+              "RelativeDocumentMoniker": "MasCore.API\\.gitignore",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\.gitignore",
+              "RelativeToolTip": "MasCore.API\\.gitignore",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-25T16:07:25.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MasCore.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:34:01.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Data\\DbSeeder.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "MasCore.API\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:50:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\JwtService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\JwtService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\JwtService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Implementations\\JwtService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:45:36.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Program.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Program.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Program.cs",
+              "RelativeToolTip": "MasCore.API\\Program.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAYwNEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:51:23.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MasCore.API\\appsettings.json",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\appsettings.json",
+              "RelativeToolTip": "MasCore.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-25T14:23:58.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MasCore.API\\appsettings.Development.json",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\appsettings.Development.json",
+              "RelativeToolTip": "MasCore.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-25T14:24:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\ProjectService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\ProjectService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\ProjectService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Implementations\\ProjectService.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAIwLAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:46:37.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Project\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Project\\ProjectDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Project\\ProjectDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Project\\ProjectDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvxgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:37:49.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProjectDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Project\\UpdateProjectDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Project\\UpdateProjectDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Project\\UpdateProjectDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Project\\UpdateProjectDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA+wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:37:17.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateProjectDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Project\\CreateProjectDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Project\\CreateProjectDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Project\\CreateProjectDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Project\\CreateProjectDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:36:38.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Models\\Project.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Project.cs",
+              "RelativeToolTip": "MasCore.API\\Models\\Project.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA6wCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:28:48.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MasCore.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:50:24.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateTaskDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Task\\UpdateTaskDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Task\\UpdateTaskDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Task\\UpdateTaskDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Task\\UpdateTaskDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:38:56.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Task\\TaskDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Task\\TaskDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Task\\TaskDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Task\\TaskDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:39:31.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Task\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Task\\CreateTaskDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Task\\CreateTaskDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Task\\CreateTaskDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:38:30.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Category\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Category\\UpdateCategoryDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Category\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Category\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:40:51.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Category\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Category\\CreateCategoryDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Category\\CreateCategoryDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Category\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:40:18.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Category\\CategoryDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Category\\CategoryDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:41:21.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:35:52.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "MasCore.API\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:35:24.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Models\\ProjectTask.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\ProjectTask.cs",
+              "RelativeToolTip": "MasCore.API\\Models\\ProjectTask.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:31:50.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectTaskStatus.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Enums\\ProjectTaskStatus.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Models\\Enums\\ProjectTaskStatus.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Enums\\ProjectTaskStatus.cs",
+              "RelativeToolTip": "MasCore.API\\Models\\Enums\\ProjectTaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:27:38.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MasCore.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:49:48.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "MasCore.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:49:22.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "MasCore.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:48:54.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MasCore.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:48:28.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:47:49.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\TaskService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\TaskService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\TaskService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Implementations\\TaskService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:47:14.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:46:13.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:44:37.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\ITaskService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:43:57.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\IProjectService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Interfaces\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:43:29.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:43:06.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\IJwtService.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "MasCore.API\\Services\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:42:37.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Models\\Category.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Category.cs",
+              "RelativeToolTip": "MasCore.API\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:28:08.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Models\\AppUser.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\AppUser.cs",
+              "RelativeToolTip": "MasCore.API\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:26:25.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectStatus.cs",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Enums\\ProjectStatus.cs",
+              "RelativeDocumentMoniker": "MasCore.API\\Models\\Enums\\ProjectStatus.cs",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Enums\\ProjectStatus.cs",
+              "RelativeToolTip": "MasCore.API\\Models\\Enums\\ProjectStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:27:13.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
