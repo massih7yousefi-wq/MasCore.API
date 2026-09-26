@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\save\\fullstack project\\MasCore.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|d:\\save\\fullstack project\\mascore.api\\mascore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33A7CD85-8D0D-FEEA-7510-099DF242D6DA}|MasCore.API\\MasCore.API.csproj|solutionrelative:mascore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -158,24 +162,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\appsettings.json",
-              "RelativeDocumentMoniker": "MasCore.API\\appsettings.json",
-              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\appsettings.json",
-              "RelativeToolTip": "MasCore.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-25T14:23:58.156Z",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\.gitignore",
+              "RelativeDocumentMoniker": "MasCore.API\\.gitignore",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\.gitignore",
+              "RelativeToolTip": "MasCore.API\\.gitignore",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-25T16:07:25.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Data\\AppDbContext.cs",
@@ -187,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DbSeeder.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Data\\DbSeeder.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Data\\DbSeeder.cs",
@@ -200,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JwtService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\JwtService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\JwtService.cs",
@@ -213,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Program.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Program.cs",
@@ -226,7 +230,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MasCore.API\\appsettings.json",
+              "ToolTip": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\appsettings.json",
+              "RelativeToolTip": "MasCore.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-25T14:23:58.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "MasCore.API\\appsettings.Development.json",
@@ -239,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\ProjectService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\ProjectService.cs",
@@ -251,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProjectDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Project\\ProjectDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Project\\ProjectDto.cs",
@@ -264,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UpdateProjectDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Project\\UpdateProjectDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Project\\UpdateProjectDto.cs",
@@ -276,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CreateProjectDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Project\\CreateProjectDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Project\\CreateProjectDto.cs",
@@ -288,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Project.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Project.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Models\\Project.cs",
@@ -300,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Controllers\\DashboardController.cs",
@@ -312,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UpdateTaskDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Task\\UpdateTaskDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Task\\UpdateTaskDto.cs",
@@ -324,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TaskDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Task\\TaskDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Task\\TaskDto.cs",
@@ -336,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CreateTaskDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Task\\CreateTaskDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Task\\CreateTaskDto.cs",
@@ -348,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "UpdateCategoryDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Category\\UpdateCategoryDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Category\\UpdateCategoryDto.cs",
@@ -360,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CreateCategoryDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Category\\CreateCategoryDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Category\\CreateCategoryDto.cs",
@@ -372,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Category\\CategoryDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Category\\CategoryDto.cs",
@@ -384,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "LoginResponseDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Auth\\LoginResponseDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Auth\\LoginResponseDto.cs",
@@ -396,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "LoginRequestDto.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\DTOs\\Auth\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "MasCore.API\\DTOs\\Auth\\LoginRequestDto.cs",
@@ -408,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ProjectTask.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\ProjectTask.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Models\\ProjectTask.cs",
@@ -420,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ProjectTaskStatus.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Enums\\ProjectTaskStatus.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Models\\Enums\\ProjectTaskStatus.cs",
@@ -432,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Controllers\\CategoriesController.cs",
@@ -444,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "TasksController.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Controllers\\TasksController.cs",
@@ -456,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Controllers\\ProjectsController.cs",
@@ -468,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Controllers\\AuthController.cs",
@@ -480,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\CategoryService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\CategoryService.cs",
@@ -492,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "TaskService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\TaskService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\TaskService.cs",
@@ -504,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Implementations\\AuthService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Implementations\\AuthService.cs",
@@ -516,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\ICategoryService.cs",
@@ -528,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ITaskService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\ITaskService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\ITaskService.cs",
@@ -540,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IProjectService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\IProjectService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\IProjectService.cs",
@@ -552,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\IAuthService.cs",
@@ -564,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "IJwtService.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Services\\Interfaces\\IJwtService.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Services\\Interfaces\\IJwtService.cs",
@@ -576,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Category.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Models\\Category.cs",
@@ -588,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Models\\AppUser.cs",
@@ -600,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "ProjectStatus.cs",
               "DocumentMoniker": "D:\\save\\fullstack project\\MasCore.API\\MasCore.API\\Models\\Enums\\ProjectStatus.cs",
               "RelativeDocumentMoniker": "MasCore.API\\Models\\Enums\\ProjectStatus.cs",
