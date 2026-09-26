@@ -16,10 +16,13 @@ export interface Project {
   updatedAt: string;
 }
 
-export enum ProjectStatus {
-  Draft = 0,
-  Published = 1,
-}
+export const ProjectStatus = {
+  Draft: 0,
+  Published: 1,
+} as const;
+
+export type ProjectStatus =
+  (typeof ProjectStatus)[keyof typeof ProjectStatus];
 
 export interface ProjectInput {
   name: string;
@@ -59,11 +62,14 @@ export interface ProjectTask {
   updatedAt: string;
 }
 
-export enum ProjectTaskStatus {
-  Todo = 0,
-  InProgress = 1,
-  Completed = 2,
-}
+export const ProjectTaskStatus = {
+  Todo: 0,
+  InProgress: 1,
+  Completed: 2,
+} as const;
+
+export type ProjectTaskStatus =
+  (typeof ProjectTaskStatus)[keyof typeof ProjectTaskStatus];
 
 export interface TaskInput {
   title: string;
